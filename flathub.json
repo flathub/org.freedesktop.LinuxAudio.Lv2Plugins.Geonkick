@@ -1,4 +1,6 @@
 {
+    "end-of-life": "The plugin has been renamed to org.freedesktop.LinuxAudio.Plugins.Geonkick",
+    "end-of-life-rebase": "org.freedesktop.LinuxAudio.Plugins.Geonkick",
     "skip-icons-check": true,
     "skip-arches": ["arm"]
 }
